@@ -1,0 +1,361 @@
+/* start box */
+  .p-rel {
+    position: relative;
+  }
+  .p-aps {
+    position: absolute;
+  }
+  .d-flex {
+    display: flex;
+  }
+  .jc-space-b {
+    justify-content: space-between;
+  }
+  .jc-space-a {
+    justify-content: space-around;
+  }
+  .jc-space-e {
+    justify-content: space-evenly;
+  }
+  .jc-c {
+    justify-content: center;
+  }
+  .ai-c {
+    align-items: center;
+  }
+  .d-grid {
+    display: grid;
+  }
+  .g-40 {
+    gap: 40px;
+  }
+  .g-30 {
+    gap: 30px;
+  }
+  .d-block {
+    display: block;
+  }
+  .d-inline {
+    display: inline;
+  }
+  .d-in-block {
+    display: inline-block;
+  }
+  .rad-6 {
+    border-radius: 6px;
+  }
+  .rad-10 {
+    border-radius: 10px;
+  }
+  .rad-15 {
+    border-radius: 15px;
+  }
+  .rad-20 {
+    border-radius: 20px;
+  }
+  .rad-30 {
+    border-radius: 30px;
+  }
+  .rad-half {
+    border-radius: 50%;
+  }
+/* end box */
+/* start margin + margin */
+.p-15 {
+  padding: 15px;
+}
+.pt-15 {
+  padding-top: 15px;
+}
+.pr-15 {
+  padding-right: 15px;
+}
+.pb-15 {
+  padding-bottom: 15px;
+}
+.pl-15 {
+  padding-left: 15px;
+}
+.p-20 {
+  padding: 20px;
+}
+.pt-20 {
+  padding-top: 20px;
+}
+.pr-20 {
+  padding-right: 20px;
+}
+.pb-20 {
+  padding-bottom: 20px;
+}
+.pl-20 {
+  padding-left: 20px;
+}
+.p-30 {
+  padding: 30px;
+}
+.pt-30 {
+  padding-top: 30px;
+}
+.pr-30 {
+  padding-right: 30px;
+}
+.pb-30 {
+  padding-bottom: 30px;
+}
+.pl-30 {
+  padding-left: 30px;
+}
+.p-50 {
+  padding: 50px;
+}
+.pt-50 {
+  padding-top: 50px;
+}
+.pr-50 {
+  padding-right: 50px;
+}
+.pb-50 {
+  padding-bottom: 50px;
+}
+.pl-50 {
+  padding-left: 50px;
+}
+.m-15 {
+  margin: 15px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.ml-15 {
+  margin-left: 15px;
+}
+.m-20 {
+  margin: 20px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.m-30 {
+  margin: 30px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mr-30 {
+  margin-right: 30px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.ml-30 {
+  margin-left: 30px;
+}
+/* end padding + margin */
+
+/* start backgroung + color */
+.bg-f {
+  background-color: #fff;
+}
+.bg-e {
+  background-color: #eee;
+}
+.bg-d {
+  background-color: #ddd;
+}
+.bg-c {
+  background-color: #ccc;
+}
+.bg-b {
+  background-color: #bbb;
+}
+.bg-a {
+  background-color: #aaa;
+}
+.c-w {
+  color: white;
+}
+.c-a {
+  color: #aaa;
+}
+.c-a {
+  color: #bbb;
+}
+.c-a {
+  color: #ccc;
+}
+.c-a {
+  color: #eee;
+}
+/* end backgroung + color */
+/* start fonts */
+.tt-c {
+  text-transform: capitalize;
+}
+.tt-u {
+  text-transform: uppercase;
+}
+.fs-12 {
+  font-size: 12px;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fw-1 {
+  font-weight: 100;
+}
+.fw-2 {
+  font-weight: 200;
+}
+.fw-3 {
+  font-weight: 300;
+}
+.fw-4 {
+  font-weight: 400;
+}
+.fw-5 {
+  font-weight: 500;
+}
+.fw-6 {
+  font-weight: 600;
+}
+.fw-7 {
+  font-weight: 700;
+}
+.fw-8 {
+  font-weight: 800;
+}
+.fw-9 {
+  font-weight: 900;
+}
+/* end fonts */
+/* start width+height */
+.h-fit {
+  height: fit-content;
+}
+.w-fit {
+  width: fit-content;
+}
+.h-full {
+  height: 100%
+}
+.w-full {
+  width: 100%;
+}
+
+/* end width+height */
+/* start centered */
+.v-cen {
+  transform: translateY(-50%);
+  top: 50%;
+}
+.h-cen {
+  transform: translatex(-50%);
+  left: 50%;
+}
+.l-0 {
+  left: 0;
+}
+.l-10 {
+  left: 10px;
+}
+.l-15 {
+  left: 15px;
+}
+.l-20 {
+  left: 20px;
+}
+.l-25 {
+  left: 25px;
+}
+.l-30 {
+  left: 30px;
+}
+.l-40 {
+  left: 40px;
+}
+.r-0 {
+  right: 0;
+}
+.r-10 {
+  right: 10px;
+}
+.r-15 {
+  right: 15px;
+}
+.r-20 {
+  right: 20px;
+}
+.r-25 {
+  right: 25px;
+}
+.r-30 {
+  right: 30px;
+}
+.r-40 {
+  right: 40px;
+}
+.t-0 {
+  top: 0;
+}
+.t-10 {
+  top: 10px;
+}
+.t-15 {
+  top: 15px;
+}
+.t-20 {
+  top: 20px;
+}
+.t-25 {
+  top: 25px;
+}
+.t-30 {
+  top: 30px;
+}
+.t-40 {
+  top: 40px;
+}
+.b-0 {
+  bottom: 0;
+}
+.t-10 {
+  bottom: 10px;
+}
+.t-15 {
+  bottom: 15px;
+}
+.t-20 {
+  bottom: 20px;
+}
+.t-25 {
+  bottom: 25px;
+}
+.t-30 {
+  bottom: 30px;
+}
+.t-40 {
+  bottom: 40px;
+}
+/* end centered */
