@@ -223,7 +223,7 @@ header .search ::placeholder {
 header .search input {
   padding: 10px 10px 10px 40px;
   border-radius: 30px;
-  width: 300px;
+  width: 100%;
   caret-color: var(--main-color);
   background-color: #eee;
 }
@@ -259,6 +259,7 @@ header .icon i:last-child {
   }
   header .search {
     margin-top: 15px;
+    width: 100%;
   }
   header::before {
     content: 'cloud';
